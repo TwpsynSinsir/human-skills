@@ -17,3 +17,19 @@ Listening, and active listening are simple gestures in theory, but since coming 
 ### What else is on top for me this week (what else is on my mind)?
 
 This week, being the first proper full-time Bootcamp week has been a wake-up call literally and figuratively for me! I feel that I have newfound purpose coming here every day now. Outside of DAA, I think I've been going through some soul searching regarding how I use and think of my downtime; I think that I need to use more productive methods to use my limited free-time. For instance, I've caught myself getting trapped on the computer playing some innane game that once I've left the computer, I realise that I didn't particularly enjoy my time: it was simply a distraction.
+
+## Week 3 - 07/03/25
+
+### What do meaningful inclusion & belonging mean to me? What might help me feel more of a sense of inclusion and belonging? What might help me contribute to others feeling a sense of inclusion and belonging? (You can use these examples for THS06 later)
+
+I feel included if people treat me as an individual rather than just another cog in the machine. Taking an interest in how I'm doing and asking how I'm doing is more than enough for me to feel like they care about me. Conversely, those around me letting me take an interest in them is also a big part of making me feel included; I enjoy checking in with people and want to make friends if I can.
+
+Learning what others like and how they want to be treated is a good way for me to contribute to their sense of inclusion and belonging.
+
+### What are some examples of appreciative and growth feedback I have given or received? (You can use these examples for THS04 later)
+
+Receiving feeback from peers that I am cheerful and can explain some aspects of code in an understandable way was very ncie to hear, and something I very much appreciated. I give feedback to my peers pointing out things they did well and praising them for feats that I wasn't able to complete myself. I always tell people if I've taken a look at their branches if I had gotten stuck in stretch material, and tell them that looking at how they'd solved it really helped me understand it.
+
+### What have you learnt about yourself and how you learn best? (You can use this for THS05 later)
+
+I've learnt once again that I learn best with visual examples and positive reinforcement. Yesterday, while talking through some stretch material with Pheonix, he pointed out that we were talking about things as if they were simple while last week we had been confused by them, showing us how far we had come even if we hadn't consciously noticed.
