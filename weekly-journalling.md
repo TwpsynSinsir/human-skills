@@ -33,3 +33,27 @@ Receiving feeback from peers that I am cheerful and can explain some aspects of 
 ### What have you learnt about yourself and how you learn best? (You can use this for THS05 later)
 
 I've learnt once again that I learn best with visual examples and positive reinforcement. Yesterday, while talking through some stretch material with Pheonix, he pointed out that we were talking about things as if they were simple while last week we had been confused by them, showing us how far we had come even if we hadn't consciously noticed.
+
+## Week 5 - 20/03/25
+
+### When I've been struggling with something in my studies:
+
+#### What types of things would I say to myself?
+
+"Keep at it, this is all new stuff so take your time and let it all sink in."
+
+#### What does my body language look like?
+
+Trying to stay relaxed, fixing my posture when it goes full goblin-mode. Standing up to take breaks and walk around.
+
+#### What tone do I use with myself?
+
+I try to use a compassionate tone with myself. I've learnt that there's no point in being hard on myself in these situations.
+
+### Writing a supportive, compassionate, and encouraging letter to a friend who is similarly studying at DA, and experiencing the same challenges that I am.
+
+Keep your chin up, mate. You and I both know that this coding we're doing is proper tough stuff, and the fact that we can even do what we can is bloody amazing, let's be fair. When we started, we could barely code a single HTML page with some frivolous CSS to make it look bearable. Now we're at the point where we're making and using our own databases!
+
+As fun as this all is, I know it's tough. But, if it weren't tough, it wouldn't be worth doing, I reckon. We've got to be honest with ourselves that it's okay to find what we're learning tough, and give ourselves the grace to have difficulty learning certain aspects. Remember what they tought us at the beginning: when you can't initially do something, don't count it as failing, think of it as not yet being able to do something. We can always ask for help from our peers and facilitators, and on top of that, we're both smart cookies; we both know we'll figure it out soon enough!
+
+From my time as a teacher, the best advice I can give to both you and myself, is that without challenging ourselves, without initially stumbling, we would learn far less. Coding is just like learning a new language; without putting in effort and feeling like we're struggling in an uphill battle, we won't know if we've learnt anything.
