@@ -57,3 +57,23 @@ Keep your chin up, mate. You and I both know that this coding we're doing is pro
 As fun as this all is, I know it's tough. But, if it weren't tough, it wouldn't be worth doing, I reckon. We've got to be honest with ourselves that it's okay to find what we're learning tough, and give ourselves the grace to have difficulty learning certain aspects. Remember what they tought us at the beginning: when you can't initially do something, don't count it as failing, think of it as not yet being able to do something. We can always ask for help from our peers and facilitators, and on top of that, we're both smart cookies; we both know we'll figure it out soon enough!
 
 From my time as a teacher, the best advice I can give to both you and myself, is that without challenging ourselves, without initially stumbling, we would learn far less. Coding is just like learning a new language; without putting in effort and feeling like we're struggling in an uphill battle, we won't know if we've learnt anything.
+
+## Week 5 Friday Morning Journalling
+
+### Are there any challenges, or barriers getting in the way of the things I’ve identified in my wellbeing plan? Is there anything that might help me overcome these barriers? (If you are feeling stuck here,you could consider reaching out to Human Skills for a check in)
+
+Not particularly, I'm fortunate that I've been on my wellbeing journey long enough that my barriers are very low if existing at all.
+
+### How has learning about the practice of self compassion and growth mindset supported your learning?
+
+Having another reminder that I need to be kind to myself in the same way that I try to be kind to others is a nice message to give myself. Learning is tough, and remembering to remind myself of that whenever I come across a more difficult challenge is good to remember when I'm beginning to get stressed.
+
+### How might you continue to practice self compassion through the rest of bootcamp?
+
+I'll try to continue it by taking breaks when needed, and reminding myself that any difficulties I face only add to the depth of my learning if I keep at it and ask for assistance.
+
+## Week 6 Friday Morning Journalling
+
+### What am I learning about myself through pair and group work?
+
+I'm learning that I do much better when as a pair or group we take plenty of time to properly plan instead of getting stuck in quickly. Knowing exactly what we intend to do helps keep me focused on what needs doing and what I can do to help us get to that dsestination. I'm worried that I tend to take control without meaning to because of the way I talk more than others. I don't want my peers to think that I'm a control freak, and I just want someone to take charge so that we have a unified team vision to work with. I would prefer if someone else would fill the role as I don't want to adversely affect anyone else's work if my skills aren't up to it.
